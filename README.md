@@ -1,5 +1,0 @@
-# Reactのテンプレート
-
-- tyoescript
-- eslint
-- Prettier
